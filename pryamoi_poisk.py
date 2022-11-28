@@ -47,5 +47,5 @@ while i < n:
             j = p[j-1]
         else:
             i += 1
-            if i == n:
+if i == n:
                 print("Образ не найден")
